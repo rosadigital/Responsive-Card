@@ -19,7 +19,7 @@
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - integrate CSS and HTML codes;
+  - integrate CSS and HTML codes; and
   - using containers on HTML and hover it by CSS.
 
 
